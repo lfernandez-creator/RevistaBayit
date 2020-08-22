@@ -1,4 +1,5 @@
-[{
+[
+{
 	"x":24,
 	"y":254,
 	"width":115,
@@ -6,7 +7,7 @@
 	"class":"link",
 	"data":
 		{
-			"url": "http://turnjs.com/"
+			"url": "https://wa.me/56955323462?text=Hola!%20Vi%20sus%20datos%20en%20la%20revista%20Emprendedores%20Bayit%20y%20me%20interesaría%20recibir%20más%20información%20sobre%20sus%20productos/servicios"
 		}
 },
 {
@@ -17,7 +18,7 @@
 	"class":"link",
 	"data":
 		{
-			"url": "http://turnjs.com/"
+			"url": "https://www.instagram.com/"
 		}
 },
 {
@@ -28,7 +29,7 @@
 	"class":"link",
 	"data":
 		{
-			"url": "http://turnjs.com/"
+			"url": "https://www.facebook.com/"
 		}
 }
 ,{
@@ -39,7 +40,18 @@
 	"class":"link",
 	"data":
 		{
-			"url": "http://turnjs.com/"
+			"url": "https://www.gmail.com/"
+		}
+},
+{
+	"x":155,
+	"y":280,
+	"width":30,
+	"height":30,
+	"class":"link",
+	"data":
+		{
+			"url": "1modal"
 		}
 },
 {
@@ -50,7 +62,7 @@
 	"class":"link",
 	"data":
 		{
-			"url": "http://turnjs.com/"
+			"url": "https://wa.me/56952490173?text=Hola!%20Vi%20sus%20datos%20en%20la%20revista%20Emprendedores%20Bayit%20y%20me%20interesaría%20recibir%20más%20información%20sobre%20sus%20productos/servicios"
 		}
 },
 {
@@ -61,11 +73,11 @@
 	"class":"link",
 	"data":
 		{
-			"url": "http://turnjs.com/"
+			"url": "https://www.instagram.com/brixtoncafechile/"
 		}
-}
-,{
-	"x":155,
+},
+{
+	"x":338,
 	"y":280,
 	"width":30,
 	"height":30,
@@ -73,6 +85,105 @@
 	"data":
 		{
 			"url": "2modal"
+		}
+},
+{
+	"x":24,
+	"y":502,
+	"width":115,
+	"height":15,
+	"class":"link",
+	"data":
+		{
+			"url": "https://wa.me/56953773019?text=Hola!%20Vi%20sus%20datos%20en%20la%20revista%20Emprendedores%20Bayit%20y%20me%20interesaría%20recibir%20más%20información%20sobre%20sus%20productos/servicios"
+		}
+},
+{
+	"x":24,
+	"y":520,
+	"width":130,
+	"height":15,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.instagram.com/paltas_sakal_food_delivery/"
+		}
+},
+{
+	"x":24,
+	"y":540,
+	"width":130,
+	"height":15,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.gmail.com/"
+		}
+},
+{
+	"x":155,
+	"y":535,
+	"width":30,
+	"height":30,
+	"class":"link",
+	"data":
+		{
+			"url": "3modal"
+		}
+},
+{
+	"x":210,
+	"y":502,
+	"width":115,
+	"height":15,
+	"class":"link",
+	"data":
+		{
+			"url": "https://wa.me/56982683043?text=Hola!%20Vi%20sus%20datos%20en%20la%20revista%20Emprendedores%20Bayit%20y%20me%20interesaría%20recibir%20más%20información%20sobre%20sus%20productos/servicios"
+		}
+},
+{
+	"x":210,
+	"y":520,
+	"width":115,
+	"height":15,
+	"class":"link",
+	"data":
+		{
+			"url": "https://wa.me/56982683043?text=Hola!%20Vi%20sus%20datos%20en%20la%20revista%20Emprendedores%20Bayit%20y%20me%20interesaría%20recibir%20más%20información%20sobre%20sus%20productos/servicios"
+		}
+},
+{
+	"x":210,
+	"y":540,
+	"width":115,
+	"height":14,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.instagram.com/masaborchile/"
+		}
+},
+{
+	"x":210,
+	"y":552,
+	"width":115,
+	"height":15,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.facebook.com/Masabor-210043376508133/"
+		}
+},
+{
+	"x":340,
+	"y":535,
+	"width":30,
+	"height":30,
+	"class":"link",
+	"data":
+		{
+			"url": "4modal"
 		}
 }
 ]
