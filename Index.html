@@ -1,0 +1,96 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+<title>Revista Bayit 2da edici&oacute;n</title>
+<meta name="viewport" content="width = 1050, user-scalable = no" />
+</head>
+<body>
+
+<div class="magazine-viewport">
+	<div class="container">
+		<div class="magazine">
+			<!-- Next button -->
+			<div ignore="1" class="next-button"></div>
+			<!-- Previous button -->
+			<div ignore="1" class="previous-button"></div>
+		</div>
+	</div>
+</div>
+<div class="thumbnails">
+	<div>
+		<ul>
+			<li class="i">
+				<img src="pages/1.png" width="76" height="100" class="page-1">
+				<span>1</span>
+			</li>
+			<li class="d">
+				<img src="pages/2.png" width="76" height="100" class="page-2">
+				<img src="pages/3.png" width="76" height="100" class="page-3">
+				<span>2-3</span>
+			</li>
+			<li class="d">
+				<img src="pages/4.png" width="76" height="100" class="page-4">
+				<img src="pages/5.png" width="76" height="100" class="page-5">
+				<span>4-5</span>
+			</li>
+			
+			<li class="i">
+				<img src="pages/6.png" width="76" height="100" class="page-6">
+				<span>6</span>
+			</li>
+		<ul>
+		<div>
+			
+		</div>
+
+
+</div>
+<div id="2modal" class="modal fade" role="dialog">
+	<div class="modal-dialog">
+  
+	  <!-- Modal content-->
+	  <div class="modal-content">
+		<div class="modal-header">
+		  <button type="button" class="close" data-dismiss="modal">&times;</button>
+		  <h4 class="modal-title">Modal Header</h4>
+		</div>
+		<div class="modal-body">
+		  <p>Some text in the modal.</p>
+		</div>
+		<div class="modal-footer">
+		  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		</div>
+	  </div>
+  
+	</div>
+  </div>
+
+
+<script type="text/javascript" src="assets/js/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/modernizr.2.5.3.min.js""></script>
+<script type="text/javascript" src="assets/js/hash.js"></script>
+<script type="text/javascript" src="assets/js/principal.js"></script>
+
+<script type="text/javascript">
+
+
+// Load the HTML4 version if there's not CSS transform
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['assets/js/turn.min.js'],
+	nope: ['assets/js/turn.html4.min.js'],
+	both: ['assets/js/zoom.min.js', 'assets/js/revista.js', 'assets/css/revista.css', 'assets/css/bootstrap.min.css'],
+	complete: loadApp
+});
+
+</script>
+
+</body>
+
+</html>
