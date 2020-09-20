@@ -51,7 +51,7 @@
 	"class":"link",
 	"data":
 		{
-			"url": "1modal"
+			"url": "popup1"
 		}
 },
 {
@@ -84,7 +84,7 @@
 	"class":"link",
 	"data":
 		{
-			"url": "2modal"
+			"url": "popup1"
 		}
 },
 {

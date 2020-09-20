@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\pages",
+    "\\pages\\regions"
   ],
   "PreviewInSolutionExplorer": false
 }
